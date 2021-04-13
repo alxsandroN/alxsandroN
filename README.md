@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-###  console.log("Hi there 👋 , im Miguel")
+###  console.log("...Hi  👋 , im Miguel")
 #### Web developer
 
 
